@@ -1,6 +1,6 @@
 {
   "name": "request-jar-cookie",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "file store for tough-cookie ,edit on mitsuru/tough-cookie-filestore",
   "main": "index.js",
   "author": "zcl",
