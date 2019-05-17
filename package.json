@@ -3,11 +3,11 @@
   "version": "0.0.1",
   "description": "file store for tough-cookie ,edit on mitsuru/tough-cookie-filestore",
   "main": "index.js",
-  "author": "mitsuru",
+  "author": "zcl",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/leifeng/request-jar-cookie.git"
+    "url": "https://github.com/leifeng/tough-cookie-filestore.git"
   },
   "dependencies": {
     "tough-cookie": "^3.0.1"
