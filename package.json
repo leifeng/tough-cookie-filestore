@@ -1,15 +1,15 @@
 {
-  "name": "tough-cookie-filestore",
-  "version": "0.0.2",
-  "description": "file store for tough-cookie",
+  "name": "request-jar-cookie",
+  "version": "0.0.1",
+  "description": "file store for tough-cookie ,edit on mitsuru/tough-cookie-filestore",
   "main": "index.js",
   "author": "mitsuru",
   "license": "MIT",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/mitsuru/tough-cookie-filestore.git"
-	},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leifeng/request-jar-cookie.git"
+  },
   "dependencies": {
-    "tough-cookie": "~0.12.1"
+    "tough-cookie": "^3.0.1"
   }
 }
